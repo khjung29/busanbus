@@ -1,6 +1,6 @@
 {
-   "version" : 3,
-   "version_date" : "2023년08월02일",
+   "version" : 4,
+   "version_date" : "2023년11월11일",
    "noti" : false,
     "notilist":[{
     "title" : "공지사항",
